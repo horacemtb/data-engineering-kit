@@ -12,7 +12,7 @@ Analysis for DE Russian job market
 
 Analysis for DE worldwide job market
 
-- Selection of Job Websites: Selected two job websites (workingnomads.com and job.com).
+- Selection of Job Websites: Selected two job websites (workingnomads.com and jobs.com).
 - Manual List of URLs: Manually provided a list of URLs for job postings.
 - Parsing Pages: The parser extracts the most important information for the roles from each page.
 - Extracting Top Skills: Using spacy, top skills are extracted from the job descriptions.
