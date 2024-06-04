@@ -1,0 +1,1 @@
+Технологии/инструменты SQL Vertica ClickHouse Python Superset Hadoop GitLab Airflow PySpark Hive Почему мы Работа в динамичной среде на стыке e-commerce и IT. Предоставление экспертной поддержки по оптимизации обработки данных на клиенте: Jupyter + Python. Поддержка и развитие базы знаний.

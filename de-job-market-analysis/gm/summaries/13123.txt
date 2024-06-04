@@ -1,0 +1,1 @@
+Елена Булекова Recruiter Откликнуться О компании Sportmaster Lab Сфера Продуктовая компания Размер 1001+ Sportmaster Lab — ИТ-компания в составе группы компаний Спортмастер. Опыт использования экосистемы Hadoop: HDFS, Apache AirFlow, Hive, Kafka, Spark. Подготовка витрин для анализа (Hive + Spark + SQL).

@@ -1,0 +1,1 @@
+Опыт работы с SQL, Spark, Python, CTL, ETL. Опыт работы с Airflow. Опыт работы с Airflow. Технологии/инструменты Python Hadoop Spark SQL Задачи Разработка и оптимизация программного кода на языке Python для обработки данных в Hadoop и Spark. Опыт работы с Apache (Spark, Hive, AirFlow).

@@ -1,0 +1,1 @@
+Технологии/инструменты Java SQL Scala ClickHouse Spark Python AWS Kubernetes Kafka Druid Задачи Написание ETL-процессов на Spark, PySpark, SQL. В настоящий момент в Joom входят следующие бизнесы: площадка для покупок товаров со всего мира Joom Marketplace, фармацевтический маркетплейс в Германии Onfy, платформа для оптовой торговли JoomPro. Имеете опыт работы более 6 лет.
