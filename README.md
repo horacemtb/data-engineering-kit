@@ -3,3 +3,9 @@ A collection of useful methods and tools for handling and processing data
 
 ## de-job-market-analysis
 Analysis for data engineering roles on the Russian and Worldwide job markets conducted using webpage parsing, extraction of role information and top skills via spacy, and generation of summaries using the TextRank algorithm.
+
+## create-vm-install-docker
+Create a virtual machine with a given configuration in Yandex Cloud, install Docker and run hello-world image.
+
+## install-hadoop-sandbox
+Pull Hortonworks Hadoop Sandbox image and run it as Docker container on VM. Launch Hadoop services, ensure their functionality and configure security policies. 
