@@ -9,3 +9,6 @@ Create a virtual machine with a given configuration in Yandex Cloud, install Doc
 
 ## install-hadoop-sandbox
 Pull Hortonworks Hadoop Sandbox image and run it as Docker container on VM. Launch Hadoop services, ensure their functionality and configure security policies. 
+
+## analyze-weblogs-elk
+Analyze weblogs using ELK by preparing and loading data into ElasticSearch and building a dashboard in Kibana 
