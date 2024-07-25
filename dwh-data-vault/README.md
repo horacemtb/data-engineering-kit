@@ -1,4 +1,4 @@
-## 1. Analyze Provided ER Model
+## Analyze Provided ER Model
 
 Identify primary keys (PK), foreign keys (FK), and attributes in the four operational tables (Person, Manager, Department, Company).
 
