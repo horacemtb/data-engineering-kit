@@ -15,3 +15,6 @@ Analyze weblogs using ELK by preparing and loading data into ElasticSearch and b
 
 ## dwh-data-vault
 Design a comprehensive Data Warehouse using the Data Vault methodology, transform and prepare data for analytical use.
+
+## nifi-load-raw-data
+Build a data loading pipeline using Apache NiFi and save the data to MinIO S3.
