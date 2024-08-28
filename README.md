@@ -18,3 +18,6 @@ Design a comprehensive Data Warehouse using the Data Vault methodology, transfor
 
 ## nifi-load-raw-data
 Build a data loading pipeline using Apache NiFi and save the data to MinIO S3.
+
+## airflow-postgresql
+Build a data loading pipeline using Airflow and PostgreSQL database.
