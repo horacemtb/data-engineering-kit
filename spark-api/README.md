@@ -25,11 +25,11 @@ sudo mv spark-3.5.2-bin-hadoop3 /opt/spark
 nano ~/.bashrc
 ```
 
-Add the env variables:
+add the env variables:
 
-export SPARK_HOME=/opt/spark
-export PATH=$SPARK_HOME/bin:$PATH
-export PYSPARK_PYTHON=python3
+- export SPARK_HOME=/opt/spark
+- export PATH=$SPARK_HOME/bin:$PATH
+- export PYSPARK_PYTHON=python3
 
 ```
 source ~/.bashrc
@@ -47,7 +47,7 @@ pip3 install pyspark
 spark-submit --version
 ```
 
-![Alt text]()
+![Alt text](https://github.com/horacemtb/data-engineering-kit/blob/main/spark-api/images/1.Check%20that%20Spark%20is%20installed.png)
 
 2. Ensure that you have the crime.csv and offense_codes.csv in the raw-data folder, then run the boston_crime_aggregation.py script using the command:
 
@@ -61,4 +61,4 @@ spark-submit boston_crime_aggregation.py --crime_data raw-data/crime.csv --offen
 spark-submit read_boston_agg.py --agg_data agg-data/boston_agg_table.parquet
 ```
 
-![Alt text]()
+![Alt text](https://github.com/horacemtb/data-engineering-kit/blob/main/spark-api/images/2.Check%20the%20content%20of%20parquet%20file.png)
