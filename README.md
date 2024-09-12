@@ -21,3 +21,6 @@ Build a data loading pipeline using Apache NiFi and save the data to MinIO S3.
 
 ## airflow-postgresql
 Build a data loading pipeline using Airflow and PostgreSQL database.
+
+## spark-api
+Aggregate crime statistics by district in Boston using Apache Spark, including total crimes, monthly medians, and top crime types.
