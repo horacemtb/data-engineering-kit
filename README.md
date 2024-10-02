@@ -24,3 +24,6 @@ Build a data loading pipeline using Airflow and PostgreSQL database.
 
 ## spark-api
 Aggregate crime statistics by district in Boston using Apache Spark, including total crimes, monthly medians, and top crime types.
+
+## metabase-ui
+Develop a business intelligence solution with Metabase and PostgreSQL to visualize and interact with business data.
